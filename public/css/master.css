@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900');
+.bg-white{
+  background-color: #fff;
+  border: 1px solid #d3e0e9;
+  padding: 40px;
+}
+/* simple resume css */
+.resume-name{
+  margin-top:0px;
+}
+.resume-border{
+  border-bottom: 1px solid #BFBFBF;
+  padding-bottom: 15px;
+}
+.table > tbody > tr > td {
+  border-top: 0px;
+}
+.resume-description{
+  text-align: justify;
+}
+.resume-border h1, h2, h3, h4, h5, h6, a, p, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'Roboto';
+}

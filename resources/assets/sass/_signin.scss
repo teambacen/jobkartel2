@@ -1,0 +1,95 @@
+.signin{
+  background: url('../images/loginpage-01.png') no-repeat center center fixed;
+  background-size: cover;
+  position: absolute;
+  height: 100%;
+  width:100%;
+}
+@media screen and (max-width:400px){
+  .box{
+    margin-top: 10px !important;
+  }
+}
+.box{
+  margin-top: 96px;
+}
+.sign-text{
+  font-family: 'Lato';
+  font-weight: 300;
+  color: #000;
+  margin-bottom: 30px !important;
+}
+.panel{
+  background-color: #fff !important;
+}
+.panel-heading{
+  background-color: #14191A !important;
+}
+.panel-default{
+  border-color: #14191A !important;
+}
+.panel-footer{
+  background-color: transparent !important;
+  border-color: #14191A !important;
+}
+.btn-facebook{
+  font-family: 'Lato';
+  font-weight: 700;
+  color: #fff;
+  background-color:#3460AC;
+  border-radius: 8px !important;
+}
+.btn-twitter{
+  font-family: 'Lato';
+  font-weight: 700;
+  color: #fff;
+  background-color:#27AAE1;
+  border-radius: 8px !important;
+}
+.btn-google{
+  font-family: 'Lato';
+  font-weight: 700;
+  color: #fff;
+  background-color:#ED1C24;
+  border-radius: 8px !important;
+}
+.btn-jobkartel{
+  font-family: 'Lato';
+  font-weight: 700;
+  color: #000;
+  background-color:#FACF13;
+  border-radius: 8px !important;
+}
+.form-jobkartel{
+  background-color: transparent !important;
+  border-color: #14191A !important;
+  border-radius: 8px !important;
+  text-align: center !important;
+  font-family: 'Lato' !important;
+  font-weight: 800 !important;
+}
+.white-box{
+  background-color: #fff;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom:40px;
+}
+.tajuk{
+  font-family: 'Lato';
+  font-weight: 300;
+  font-size: 4em !important;
+  margin-bottom: 30px !important;
+}
+.nav-tabs{
+  border-bottom: 0px solid transparent !important;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{
+  background-color: #fff !important;
+  border-bottom: 2px solid #FACF13 !important;
+}
+//mobile responsive
+@media screen and (max-width:400px){
+  .login-res{
+    margin-bottom: 20px;
+  }
+}

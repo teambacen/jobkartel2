@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900');
+body{
+  background-color: #fff;
+}
+.navbar{
+  margin-bottom: -64px;
+}
+.col-md-12{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.jumbotron{
+  background-image: url('../image/design-09.png') !important;
+  background-position: center;
+  background-size: cover;
+  background-color: transparent;
+  min-height: 600px;
+}
+.header-content{
+  margin-top: 140px;
+}
+.head-text{
+  color:#fff !important;
+  font-family: 'Lato';
+  font-weight: 300;
+  line-height: 35px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+a{
+  color:#fff;
+  font-family: 'Lato';
+  font-size: 700;
+}
+.nav > li > a{
+  padding: 10px 20px;
+}
+.btn{
+  margin-top: 20px;
+  border-radius: 25px;
+}
+.btn-warning{
+  background-color: #FACE0E;
+  border: 3px solid #FACE0E;
+  color:#000;
+  font-family: 'Lato';
+  font-weight: 700;
+}
+.btn-default{
+  background-color: transparent;
+  color:#fff;
+  font-family: 'Lato';
+  font-weight: 700;
+  border: 3px solid #fff;
+}
+.btn-sayanak{
+  background-color: #bd1e2d;
+  color:#FACF13;
+  border: 2px solid #bd1e2d;
+}
+.secondary-title{
+  color: #000;
+  font-family: 'Lato';
+  font-weight: 700;
+}
+.secondary-paragraph{
+  color:#000;
+  font-family: 'Lato';
+  font-weight: 300;
+  margin-bottom: 30px;
+}
+.selection-first{
+  background-image: url('../image/blog-02.jpg') !important;
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.selection-second{
+  background-image: url('../image/resume-04.png') !important;
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+}
+.select-content{
+  margin-top: 160px;
+}
+.select-title{
+  color: #fff;
+  font-family: 'Lato';
+  font-weight: 900;
+}
+.select-paragraph{
+  color: #fff;
+  font-family: 'Lato';
+  font-weight: 100;
+  text-indent: inherit;
+}
+.carousel{
+  height: 300px;
+  background: #fff;
+}
+.carousel-control{
+  color:#FACE0E;
+  font-size: 10px;
+}
+.carousel-control.left{
+  background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.0) 0%, rgba(0, 0, 0, 0.0000) 0%);
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0) 0%, rgba(0, 0, 0, 0.0001) 0%); */
+
+}
+.carousel-control.right{
+  background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.0) 0%, rgba(0, 0, 0, 0.0000) 0%);
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0) 0%, rgba(0, 0, 0, 0.0001) 0%); */
+
+}
+.carousel-inner img{
+  width: 100%;
+  min-height: 300px;
+}
+.bottom{
+  background-image: url('../image/kit-03.png');
+  background-position: center;
+  background-size: cover;
+  min-height: 560px;
+}
+.bottom-content{
+  margin-top: 50px;
+}
+.bottom-content h1{
+  color: #000;
+  line-height: 15px;
+  font-family: 'Lato';
+  font-weight: 700;
+}
+.bottom-content h3{
+  color: #000;
+  line-height: 15px;
+  font-family: 'Lato';
+  font-weight: 300;
+}
+.footer{
+  background: #000;
+  min-height: 300px;
+  position: relative;
+  bottom: 0;
+}
+.footer h3{
+  font-family: 'Lato';
+  color:#FACE0E;
+  font-weight: 900;
+  margin-top: 0px;
+}
+.social{
+  font-size: 1em;
+  padding: 10px;
+  background-color: #FACE0E;
+  border-radius: 5px;
+}

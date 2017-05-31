@@ -1,0 +1,168 @@
+.affiliate{
+  background: url('../images/affiliate_bg-02-02.png') no-repeat center center fixed !important;
+  background-size: cover;
+  min-height: 980px;
+  border-top: 10px solid #000;
+  border-bottom: 10px solid #000;
+}
+.affiliate-title{
+  font-family: 'Oswald';
+  font-weight: 700;
+  font-style: italic;
+  color: #000;
+  text-align: center;
+}
+.affiliate-paragraph{
+  margin-top: 30px;
+  font-family: 'Oswald';
+  font-weight: 300;
+  color: #000;
+  font-size: 3em;
+}
+.affiliate-box{
+  background-color: #000;
+  padding-bottom: 40px;
+}
+.affiliate-box-text{
+  color: #F9CF12;
+  margin-top: 25px;
+  margin-bottom: 50px;
+  font-family: 'Oswald';
+  font-weight: 700;
+  text-align: center;
+}
+.affiliate-bar{
+  background-color: #000;
+  position: absolute;
+  min-height: 1078px !important;
+  padding: 0px !important;
+  border-right: 3px solid $jobkartel;
+}
+.affiliate-bar .list-group{
+ border-radius: 0px;
+}
+.affiliate-bar .list-group-item{
+  background: transparent;
+  border: 0px solid transparent;
+  padding: 25px;
+  color: $jobkartel;
+  font-size: 1.3em;
+  font-family: 'Lato';
+  font-weight: 300;
+}
+.affiliate-bar .list-group-item:hover{
+  background-color: $jobkartel;
+  color: #000 !important;
+  text-decoration: none;
+}
+.affiliate-list a{
+    width: 100%;
+    padding: 25px;
+}
+.affiliate-list  a:hover{
+    background-color: $jobkartel;
+    color: #000 !important;
+    text-decoration: none;
+}
+.affiliate-list a{
+   color: $jobkartel;
+   font-size: 1.3em;
+   font-family: 'Lato';
+   font-weight: 300;
+}
+.affiliate-aktif{
+   background-color: $jobkartel !important;
+    border-bottom: 2px solid #000;
+}
+.affiliate-statistik{
+    background: #FCF6DE;
+    min-height: 100px !important;
+    margin: 20px;
+    padding: 20px;
+}
+.affiliate-statistik h4{
+    color: #000;
+    text-align: center;
+    font-family: 'Lato';
+    font-weight: 700;
+    margin-top: 20px;
+}
+.affiliate-statistik h5{
+    color: $jobkartel;
+    text-align: center;
+    font-family: 'Lato';
+    font-weight: 700px;
+    font-size: 1em;
+}
+.affiliate-statistik h3{
+    color: $jobkartel;
+    text-align: center;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 2em;
+}
+.affiliate-statistik p{
+    color: #000;
+    font-family: 'Lato';
+}
+.utama{
+    border-bottom: 1px solid $jobkartel;
+}
+.utama h4{
+    margin-top: 10px;
+    font-family: 'Lato';
+    font-weight: 700;
+    color: #000;
+}
+.refferal {
+    margin-left: 20px;
+}
+.refferal .input-group-addon{
+    background-color: $jobkartel !important;
+    color: #000;
+}
+
+.affiliate-top{
+    margin-left: 20px;
+}
+.affiliate-top table{
+    border-color:#fff !important;
+}
+.affiliate-top .table-bordered{
+    border: 2px solid #fff !important;
+}
+.affiliate-top th {
+    background-color: $jobkartel;
+    color: #000;
+    font-family: 'Lato';
+}
+.affiliate-top td{
+    background-color: #FFEFAE;
+    color: #000;
+    font-family: 'Lato';
+}
+.affiliate-top h4{
+    margin-top: 10px;
+    font-family: 'Lato';
+    font-weight: 700;
+    color: #000;
+}
+.affiliate-register{
+  margin-top: 50px;
+}
+.affiliate-gambar h5{
+  margin:0 auto;
+  text-align: center;
+  width: 150px;
+  background: #000;
+  padding: 10px;
+  color: $jobkartel;
+}
+.affiliate-form{
+  margin-top:20px;
+  margin-bottom: 50px;
+}
+.tools{
+  overflow: scroll;
+  height: 1040px;
+}

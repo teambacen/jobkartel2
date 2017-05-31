@@ -1,0 +1,18 @@
+Ni cara nak klik terus ke whatssapp anda tanpa
+perlu save dulu no dalam phone diaorang
+*link tu letak kat CTA
+
+Cara buat :
+
+(1) No telefon dan default text.
+
+https://wasap.my/60187943233/Hi%20Jobkartel,%20saya%20nak%20beli%20online%20resume.
+
+- Tukar ke no telefon anda.
+
+- ubahkan default text.
+
+- %20 tu kekalkan kerana itu sebagai tanda jarak/space.
+
+- pendekkan url dengan bit.ly untuk lebih kemas.
+          
